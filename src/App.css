@@ -1,0 +1,12 @@
+.total {
+  width: 100%;
+  height: 100vh;
+  background-color: #E5E5E5;
+  display: flex;
+}
+
+.secondBox {
+  width: 77%;
+  height: 100vh;
+  background-color: #E5E5E5;
+}

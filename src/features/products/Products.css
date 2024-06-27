@@ -1,0 +1,105 @@
+.products {
+    width: 100%;
+    height: 406px;
+    display: flex;
+    justify-content: start;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+.productsMap {
+    width: 150px;
+    height: 150px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 7px;
+    margin-right: 10px;
+}
+.img{
+    width: 90%;
+    height: 100px;
+    background-color: #f6f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px
+}
+.img img {
+    width: 75px;
+    height: 75px;
+}
+.title{
+    width: 90%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.productsBox{
+    width: 93%;
+    height: 406px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 24px;
+ }
+
+.addProduct{
+    width: 50px;
+    height: 80px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+}
+
+#dialog{
+    width: 600px;
+    height: 60px;
+}
+
+.boxes{
+    width:100%;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    width: 150px;
+    height: 35px;
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 20px;
+    color: white;
+    
+}
+
+#upload{
+    width: 200px;
+    height: 120px;
+
+}
+
+#standard-basic{
+    width: 140px;
+
+}
+
+#standard-basic1{
+    width: 140px;
+
+}

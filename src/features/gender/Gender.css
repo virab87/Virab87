@@ -1,0 +1,135 @@
+/* * {
+    box-sizing: border-box;
+}
+
+.default {
+    width: 100%;
+    height: 20vh;
+    background: #E5E5E5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.gender {
+    width: 70px;
+    height: 100px;
+    color: #939393;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.female {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.male {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.category {
+    width: 140px;
+    height: 100px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    cursor: pointer;
+}
+
+.category img {
+    width: 43px;
+    height: 43px;
+}
+
+.text {
+    font-size: 12px;
+    font-family: 'Montserrat';
+}
+
+.addCategory {
+    width: 50px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+#alert-dialog-title {
+    height: 60px;
+    font-size: 20px;
+    font-family: "Montserrat";
+    color: #2E2E2E;
+    font-weight: 600;
+}
+
+.area {
+    width: 280px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.buttons {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#femaleBtn {
+    width: 120px;
+    height: 35px;
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #838383;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 1px;
+    border: 0.3px #A4A4A4 solid;
+}
+
+#standard-basic {
+    width: 270px;
+}
+
+#upload {
+    width: 280px;
+    height: 145px;
+    background: #D3D3D3;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 18px;
+}
+
+#addBtn {
+    font-weight: 600;
+    border-radius: 50px;
+    font-family: "Montserrat";
+} */
